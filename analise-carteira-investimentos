@@ -1,0 +1,10 @@
+analise-carteira-investimentos
+
+dados/
+carteira.csv
+
+python/
+analise.py
+
+dashboard/
+dashboard.pbix
