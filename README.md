@@ -1,6 +1,8 @@
 # Dashboard de Análise de Carteira de Invstimentos 
 Projeto desenvolvido para analisar uma carteira simulada de ações utilizando Python e Power BI.
 
+# Dashboard
+![Dashboard](dashboard.png)
 
 # Ferramentas utilizadas
 - Python
